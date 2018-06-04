@@ -1,0 +1,15 @@
+<map id="GraphDrawn.GraphDraw.drawWeight" name="GraphDrawn.GraphDraw.drawWeight">
+<area shape="rect" id="node2" href="$class_graph_drawn_1_1_graph_draw.html#a4858b785318b4bcaf3243505a4748d60" title="Побудова ребра графу " alt="" coords="488,78,707,105"/>
+<area shape="rect" id="node7" href="$class_graph_drawn_1_1_graph_draw.html#a2f3683f3cc6260d63d7aa027f8184e39" title="Побудова графу з чистого листа " alt="" coords="245,268,440,309"/>
+<area shape="rect" id="node13" href="$class_graph_drawn_1_1_main_form.html#a61ba5066d4b41258ab80b3099ea23b86" title="Обробка події зміна значення у таблиці з ребрами " alt="" coords="500,399,695,440"/>
+<area shape="rect" id="node3" href="$class_graph_drawn_1_1_main_form.html#ac5a5fffa07b4868b2d0a518cb06c3575" title="Обробка події відпускання клавіши миші " alt="" coords="760,71,959,112"/>
+<area shape="rect" id="node6" href="$class_graph_drawn_1_1_main_form.html#a7700b9e8350a3af86b4999b27f27918b" title="Обробка події натиснення кнопки Відкрити з файлу для завантаження графу з файлу " alt="" coords="769,5,949,47"/>
+<area shape="rect" id="node4" href="$class_graph_drawn_1_1_main_form.html#ae3e449407bc09574a0aa45eb144d7957" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="1012,209,1219,251"/>
+<area shape="rect" id="node5" href="$class_graph_drawn_1_1_main_form.html#ae76d8bf8d2dd8e67993a78ff66f14b6b" title="Конструктор класу " alt="" coords="1267,217,1484,243"/>
+<area shape="rect" id="node8" href="$class_graph_drawn_1_1_graph_draw.html#a5857873b054cdd3b1554efd2129682a5" title="Зміна координат точки " alt="" coords="493,268,702,309"/>
+<area shape="rect" id="node10" href="$class_graph_drawn_1_1_graph_draw.html#a2eb733b14e413f4d85295d7470ff6934" title="Видалення ребра чи вершини " alt="" coords="496,333,699,375"/>
+<area shape="rect" id="node12" href="$class_graph_drawn_1_1_main_form.html#aebcc1a31721f2b895e34f088089bf7f8" title="Обробка події зміни типу графу Орієнтований чи Неорієнтований " alt="" coords="755,137,964,193"/>
+<area shape="rect" id="node14" href="$class_graph_drawn_1_1_main_form.html#abc232f20d8304c81f856654fc8b6999a" title="Обробка події зміни розміру вікна " alt="" coords="499,203,695,244"/>
+<area shape="rect" id="node9" href="$class_graph_drawn_1_1_main_form.html#a9b60dd50db3562e8b4c4ac1326d98a8a" title="Обробка події пересування курсору миші " alt="" coords="760,268,959,309"/>
+<area shape="rect" id="node11" href="$class_graph_drawn_1_1_main_form.html#a13c2f695498c6fe184b8d4baa3c85c39" title="Обробка події кліку клавіши миші " alt="" coords="760,333,959,375"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="GraphDrawn.Matrixes.Matrixes" name="GraphDrawn.Matrixes.Matrixes">
+<area shape="rect" id="node2" href="$class_graph_drawn_1_1_matrixes.html#a10824df83a529ff76abab85add27c3d8" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="255,61,453,102"/>
+<area shape="rect" id="node3" href="$class_graph_drawn_1_1_matrixes.html#ad7ea790a9ccd0a29c7e5eab7f65367ef" title="Обробка події натискання кнопки Суміжності " alt="" coords="501,27,704,69"/>
+<area shape="rect" id="node7" href="$class_graph_drawn_1_1_matrixes.html#a32ac986dfd60d6acf014cb9d68ce09ec" title="Обробка події натискання кнопки Інциндентності " alt="" coords="505,93,701,134"/>
+<area shape="rect" id="node4" href="$class_graph_drawn_1_1_form1.html#a93dc3fda2e6dda02fa950350cc23dfed" title="Чи є граф ортогональний " alt="" coords="752,5,959,32"/>
+<area shape="rect" id="node5" href="$class_graph_drawn_1_1_graph_draw.html#a4b8a624c8847c3666e6e798bccbdbabc" title="Визанчення вершини з максимальним номером " alt="" coords="760,57,951,98"/>
+<area shape="rect" id="node6" href="$class_graph_drawn_1_1_graph_draw.html#aaa2d05526f63483db217c980558eca84" title="Кількість ребер графа " alt="" coords="756,122,955,163"/>
+</map>

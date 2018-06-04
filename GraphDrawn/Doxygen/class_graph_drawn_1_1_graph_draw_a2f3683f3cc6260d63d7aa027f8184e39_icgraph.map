@@ -1,0 +1,11 @@
+<map id="GraphDrawn.GraphDraw.DrawAllFromScrath" name="GraphDrawn.GraphDraw.DrawAllFromScrath">
+<area shape="rect" id="node2" href="$class_graph_drawn_1_1_graph_draw.html#a5857873b054cdd3b1554efd2129682a5" title="Зміна координат точки " alt="" coords="248,9,457,51"/>
+<area shape="rect" id="node6" href="$class_graph_drawn_1_1_graph_draw.html#a2eb733b14e413f4d85295d7470ff6934" title="Видалення ребра чи вершини " alt="" coords="251,79,454,120"/>
+<area shape="rect" id="node8" href="$class_graph_drawn_1_1_main_form.html#aebcc1a31721f2b895e34f088089bf7f8" title="Обробка події зміни типу графу Орієнтований чи Неорієнтований " alt="" coords="505,137,715,193"/>
+<area shape="rect" id="node9" href="$class_graph_drawn_1_1_main_form.html#a61ba5066d4b41258ab80b3099ea23b86" title="Обробка події зміна значення у таблиці з ребрами " alt="" coords="513,217,707,259"/>
+<area shape="rect" id="node10" href="$class_graph_drawn_1_1_main_form.html#abc232f20d8304c81f856654fc8b6999a" title="Обробка події зміни розміру вікна " alt="" coords="255,269,451,311"/>
+<area shape="rect" id="node3" href="$class_graph_drawn_1_1_main_form.html#a9b60dd50db3562e8b4c4ac1326d98a8a" title="Обробка події пересування курсору миші " alt="" coords="511,5,709,47"/>
+<area shape="rect" id="node4" href="$class_graph_drawn_1_1_main_form.html#ae3e449407bc09574a0aa45eb144d7957" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="763,144,969,185"/>
+<area shape="rect" id="node5" href="$class_graph_drawn_1_1_main_form.html#ae76d8bf8d2dd8e67993a78ff66f14b6b" title="Конструктор класу " alt="" coords="1017,151,1235,178"/>
+<area shape="rect" id="node7" href="$class_graph_drawn_1_1_main_form.html#a13c2f695498c6fe184b8d4baa3c85c39" title="Обробка події кліку клавіши миші " alt="" coords="511,71,709,112"/>
+</map>

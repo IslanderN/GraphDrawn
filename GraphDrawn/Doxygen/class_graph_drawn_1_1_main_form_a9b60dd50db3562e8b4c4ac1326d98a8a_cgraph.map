@@ -1,0 +1,14 @@
+<map id="GraphDrawn.MainForm.pictureBox1_MouseMove" name="GraphDrawn.MainForm.pictureBox1_MouseMove">
+<area shape="rect" id="node2" href="$class_graph_drawn_1_1_graph_draw.html#aae6e87000aba6300d8d92b416c7bfdba" title="Метод визначення вершини по заданим координатам " alt="" coords="261,5,452,47"/>
+<area shape="rect" id="node3" href="$class_graph_drawn_1_1_graph_draw.html#a5857873b054cdd3b1554efd2129682a5" title="Зміна координат точки " alt="" coords="252,123,461,164"/>
+<area shape="rect" id="node5" href="$class_graph_drawn_1_1_graph_draw.html#ad6c4fdd916e8def4a55c4655d40c42fe" title="Зміна зображення на якому малюється граф " alt="" coords="755,64,941,105"/>
+<area shape="rect" id="node11" href="$class_graph_drawn_1_1_graph_draw.html#a1c9ce40c55bd58f76d8ab2764defcfd5" title="Метод відображення вершини з червоним колом " alt="" coords="261,188,453,229"/>
+<area shape="rect" id="node12" href="$class_graph_drawn_1_1_graph_draw.html#a7176b6212c61394e3b7d8d12c25880af" title="Визначення індексу ребра по заданим координатам " alt="" coords="261,253,452,295"/>
+<area shape="rect" id="node13" href="$class_graph_drawn_1_1_graph_draw.html#a7dcaf287d29e1b34642e18326ccb59e5" title="Відображення червоної лінії " alt="" coords="509,284,704,325"/>
+<area shape="rect" id="node4" href="$class_graph_drawn_1_1_graph_draw.html#a2f3683f3cc6260d63d7aa027f8184e39" title="Побудова графу з чистого листа " alt="" coords="509,129,704,171"/>
+<area shape="rect" id="node6" href="$class_graph_drawn_1_1_graph_draw.html#ac5ed09eee981432a4187a84928179f44" title="Метод відображення вершини " alt="" coords="1005,192,1197,233"/>
+<area shape="rect" id="node7" href="$class_graph_drawn_1_1_graph_draw.html#a8a2bdd4a94a6caa9865f4d5839f6af90" title="Метод відображення лінії ребра " alt="" coords="752,255,944,296"/>
+<area shape="rect" id="node9" href="$class_graph_drawn_1_1_graph_draw.html#a00f733bd2c81e9e1a5902ad3edb9c914" title="Відображення ваги ребра на зображені " alt="" coords="752,129,944,171"/>
+<area shape="rect" id="node8" href="$class_graph_drawn_1_1_graph_draw.html#a85697489bbf55304cdf4bda399d0bdc5" title="Визначення точки до якох потрібно малювати лінію " alt="" coords="992,257,1211,299"/>
+<area shape="rect" id="node10" href="$class_graph_drawn_1_1_graph_draw.html#a506eb4da19e59304641d85cef1493c0f" title="Визанчення чи ребро існує по номерм вершин кінців " alt="" coords="999,127,1204,168"/>
+</map>

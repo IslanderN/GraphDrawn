@@ -1,0 +1,9 @@
+<map id="GraphDrawn.MainForm.Form1_SizeChanged" name="GraphDrawn.MainForm.Form1_SizeChanged">
+<area shape="rect" id="node2" href="$class_graph_drawn_1_1_graph_draw.html#a2f3683f3cc6260d63d7aa027f8184e39" title="Побудова графу з чистого листа " alt="" coords="249,93,444,135"/>
+<area shape="rect" id="node3" href="$class_graph_drawn_1_1_graph_draw.html#ad6c4fdd916e8def4a55c4655d40c42fe" title="Зміна зображення на якому малюється граф " alt="" coords="495,5,681,47"/>
+<area shape="rect" id="node4" href="$class_graph_drawn_1_1_graph_draw.html#ac5ed09eee981432a4187a84928179f44" title="Метод відображення вершини " alt="" coords="745,61,937,103"/>
+<area shape="rect" id="node5" href="$class_graph_drawn_1_1_graph_draw.html#a8a2bdd4a94a6caa9865f4d5839f6af90" title="Метод відображення лінії ребра " alt="" coords="492,123,684,164"/>
+<area shape="rect" id="node7" href="$class_graph_drawn_1_1_graph_draw.html#a00f733bd2c81e9e1a5902ad3edb9c914" title="Відображення ваги ребра на зображені " alt="" coords="492,189,684,231"/>
+<area shape="rect" id="node6" href="$class_graph_drawn_1_1_graph_draw.html#a85697489bbf55304cdf4bda399d0bdc5" title="Визначення точки до якох потрібно малювати лінію " alt="" coords="732,127,951,168"/>
+<area shape="rect" id="node8" href="$class_graph_drawn_1_1_graph_draw.html#a506eb4da19e59304641d85cef1493c0f" title="Визанчення чи ребро існує по номерм вершин кінців " alt="" coords="739,192,944,233"/>
+</map>

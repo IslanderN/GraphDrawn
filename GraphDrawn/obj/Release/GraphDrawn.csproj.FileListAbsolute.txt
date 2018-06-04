@@ -1,0 +1,15 @@
+D:\Documents\2course\2semestre\lab Csh\GraphDrawn\GraphDrawn\bin\Release\GraphDrawn.exe.config
+D:\Documents\2course\2semestre\lab Csh\GraphDrawn\GraphDrawn\bin\Release\GraphDrawn.exe
+D:\Documents\2course\2semestre\lab Csh\GraphDrawn\GraphDrawn\bin\Release\GraphDrawn.pdb
+D:\Documents\2course\2semestre\lab Csh\GraphDrawn\GraphDrawn\bin\Release\EntityFramework.dll
+D:\Documents\2course\2semestre\lab Csh\GraphDrawn\GraphDrawn\bin\Release\EntityFramework.SqlServer.dll
+D:\Documents\2course\2semestre\lab Csh\GraphDrawn\GraphDrawn\bin\Release\EntityFramework.xml
+D:\Documents\2course\2semestre\lab Csh\GraphDrawn\GraphDrawn\bin\Release\EntityFramework.SqlServer.xml
+D:\Documents\2course\2semestre\lab Csh\GraphDrawn\GraphDrawn\obj\Release\GraphDrawn.About.resources
+D:\Documents\2course\2semestre\lab Csh\GraphDrawn\GraphDrawn\obj\Release\GraphDrawn.Matrixes.resources
+D:\Documents\2course\2semestre\lab Csh\GraphDrawn\GraphDrawn\obj\Release\GraphDrawn.Properties.Resources.resources
+D:\Documents\2course\2semestre\lab Csh\GraphDrawn\GraphDrawn\obj\Release\GraphDrawn.csproj.GenerateResource.Cache
+D:\Documents\2course\2semestre\lab Csh\GraphDrawn\GraphDrawn\obj\Release\GraphDrawn.exe
+D:\Documents\2course\2semestre\lab Csh\GraphDrawn\GraphDrawn\obj\Release\GraphDrawn.pdb
+D:\Documents\2course\2semestre\lab Csh\GraphDrawn\GraphDrawn\obj\Release\GraphDrawn.csprojResolveAssemblyReference.cache
+D:\Documents\2course\2semestre\lab Csh\GraphDrawn\GraphDrawn\obj\Release\GraphDrawn.MainForm.resources

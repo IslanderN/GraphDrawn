@@ -1,0 +1,16 @@
+<map id="GraphDrawn.Form1.pictureBox1_MouseClick" name="GraphDrawn.Form1.pictureBox1_MouseClick">
+<area shape="rect" id="node2" href="$class_graph_drawn_1_1_graph_draw.html#a0cb1a609a7dcccf2543c7bc138a734f3" title="Побудова вершини " alt="" coords="231,29,445,56"/>
+<area shape="rect" id="node5" href="$class_graph_drawn_1_1_graph_draw.html#a2eb733b14e413f4d85295d7470ff6934" title="Видалення ребра чи вершини " alt="" coords="237,152,439,194"/>
+<area shape="rect" id="node14" href="$class_graph_drawn_1_1_form1.html#aedb6e0838e44466aea5923cd71d1b49f" title="Метод відновлення даних у таблиці з ребрами " alt="" coords="499,312,682,354"/>
+<area shape="rect" id="node3" href="$class_graph_drawn_1_1_graph_draw.html#ac5ed09eee981432a4187a84928179f44" title="Метод відображення вершини " alt="" coords="989,64,1181,106"/>
+<area shape="rect" id="node4" href="$class_graph_drawn_1_1_graph_draw.html#a8b30901aef6589d77c2d216211acad6a" title="Визначення останьої доданої вершини " alt="" coords="495,22,686,63"/>
+<area shape="rect" id="node6" href="$class_graph_drawn_1_1_graph_draw.html#aae6e87000aba6300d8d92b416c7bfdba" title="Метод визначення вершини по заданим координатам " alt="" coords="495,87,686,128"/>
+<area shape="rect" id="node7" href="$class_graph_drawn_1_1_graph_draw.html#a7176b6212c61394e3b7d8d12c25880af" title="Визначення індексу ребра по заданим координатам " alt="" coords="495,152,686,194"/>
+<area shape="rect" id="node8" href="$class_graph_drawn_1_1_graph_draw.html#a2f3683f3cc6260d63d7aa027f8184e39" title="Побудова графу з чистого листа " alt="" coords="493,218,688,259"/>
+<area shape="rect" id="node9" href="$class_graph_drawn_1_1_graph_draw.html#ad6c4fdd916e8def4a55c4655d40c42fe" title="Зміна зображення на якому малюється граф " alt="" coords="739,123,925,164"/>
+<area shape="rect" id="node10" href="$class_graph_drawn_1_1_graph_draw.html#a8a2bdd4a94a6caa9865f4d5839f6af90" title="Метод відображення лінії ребра " alt="" coords="736,188,928,230"/>
+<area shape="rect" id="node12" href="$class_graph_drawn_1_1_graph_draw.html#a00f733bd2c81e9e1a5902ad3edb9c914" title="Відображення ваги ребра на зображені " alt="" coords="736,254,928,295"/>
+<area shape="rect" id="node11" href="$class_graph_drawn_1_1_graph_draw.html#a85697489bbf55304cdf4bda399d0bdc5" title="Визначення точки до якох потрібно малювати лінію " alt="" coords="976,188,1195,230"/>
+<area shape="rect" id="node13" href="$class_graph_drawn_1_1_graph_draw.html#a506eb4da19e59304641d85cef1493c0f" title="Визанчення чи ребро існує по номерм вершин кінців " alt="" coords="983,312,1188,354"/>
+<area shape="rect" id="node15" href="$class_graph_drawn_1_1_graph_draw.html#aac44601f8514a43277dfbc35b2940e65" title="Визначення ортогонального ребра до ребра з вершинами номера яких задані " alt="" coords="737,371,927,412"/>
+</map>

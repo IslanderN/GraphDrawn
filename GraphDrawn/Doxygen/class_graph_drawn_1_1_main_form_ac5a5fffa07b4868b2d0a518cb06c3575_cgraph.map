@@ -1,0 +1,13 @@
+<map id="GraphDrawn.MainForm.pictureBox1_MouseUp" name="GraphDrawn.MainForm.pictureBox1_MouseUp">
+<area shape="rect" id="node2" href="$class_graph_drawn_1_1_graph_draw.html#aae6e87000aba6300d8d92b416c7bfdba" title="Метод визначення вершини по заданим координатам " alt="" coords="266,5,457,47"/>
+<area shape="rect" id="node3" href="$class_graph_drawn_1_1_graph_draw.html#a0cb1a609a7dcccf2543c7bc138a734f3" title="Побудова вершини " alt="" coords="254,71,469,98"/>
+<area shape="rect" id="node5" href="$class_graph_drawn_1_1_graph_draw.html#a8b30901aef6589d77c2d216211acad6a" title="Визначення останьої доданої вершини " alt="" coords="519,81,710,123"/>
+<area shape="rect" id="node6" href="$class_graph_drawn_1_1_graph_draw.html#a4858b785318b4bcaf3243505a4748d60" title="Побудова ребра графу " alt="" coords="252,173,471,199"/>
+<area shape="rect" id="node11" href="$class_graph_drawn_1_1_main_form.html#a3b0290115913aab175b5476ed6438396" title="Метод відновлення даних у таблиці з ребрами " alt="" coords="260,271,463,312"/>
+<area shape="rect" id="node4" href="$class_graph_drawn_1_1_graph_draw.html#ac5ed09eee981432a4187a84928179f44" title="Метод відображення вершини " alt="" coords="772,52,964,93"/>
+<area shape="rect" id="node7" href="$class_graph_drawn_1_1_graph_draw.html#a00f733bd2c81e9e1a5902ad3edb9c914" title="Відображення ваги ребра на зображені " alt="" coords="519,212,711,253"/>
+<area shape="rect" id="node9" href="$class_graph_drawn_1_1_graph_draw.html#a8a2bdd4a94a6caa9865f4d5839f6af90" title="Метод відображення лінії ребра " alt="" coords="519,147,711,188"/>
+<area shape="rect" id="node8" href="$class_graph_drawn_1_1_graph_draw.html#a506eb4da19e59304641d85cef1493c0f" title="Визанчення чи ребро існує по номерм вершин кінців " alt="" coords="765,271,971,312"/>
+<area shape="rect" id="node10" href="$class_graph_drawn_1_1_graph_draw.html#a85697489bbf55304cdf4bda399d0bdc5" title="Визначення точки до якох потрібно малювати лінію " alt="" coords="759,147,977,188"/>
+<area shape="rect" id="node12" href="$class_graph_drawn_1_1_graph_draw.html#aac44601f8514a43277dfbc35b2940e65" title="Визначення ортогонального ребра до ребра з вершинами номера яких задані " alt="" coords="519,329,710,371"/>
+</map>

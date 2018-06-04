@@ -1,0 +1,43 @@
+<map id="GraphDrawn.MainForm.InitializeComponent" name="GraphDrawn.MainForm.InitializeComponent">
+<area shape="rect" id="node2" href="$class_graph_drawn_1_1_main_form.html#aca18822553920c99bc243795f55512e8" title="Обробка події початку редагування таблиці з ребрами, потрібна для збереження даних перед редагуванням..." alt="" coords="267,267,451,308"/>
+<area shape="rect" id="node3" href="$class_graph_drawn_1_1_main_form.html#a61ba5066d4b41258ab80b3099ea23b86" title="Обробка події зміна значення у таблиці з ребрами " alt="" coords="519,5,713,47"/>
+<area shape="rect" id="node11" href="$class_graph_drawn_1_1_main_form.html#aebcc1a31721f2b895e34f088089bf7f8" title="Обробка події зміни типу графу Орієнтований чи Неорієнтований " alt="" coords="511,173,721,229"/>
+<area shape="rect" id="node14" href="$class_graph_drawn_1_1_main_form.html#a9a908490cbe7b2b6994cc20c282078f7" title="Обробка події натиснення кнопки Про програму " alt="" coords="269,851,449,892"/>
+<area shape="rect" id="node15" href="$class_graph_drawn_1_1_main_form.html#a7218b61ddf161b98fb0c755305378a2d" title="Обробка події натиснення кнопки Олівець для малювання графу " alt="" coords="269,916,449,957"/>
+<area shape="rect" id="node16" href="$class_graph_drawn_1_1_main_form.html#a354b4f123111a9e7df3b5a4140a0c561" title="Обробка події натиснення кнопки Видалити для видалення елементу графу " alt="" coords="269,981,449,1023"/>
+<area shape="rect" id="node17" href="$class_graph_drawn_1_1_main_form.html#a07c250cf5b26a4444ef4dacdf6f71134" title="Обробка події натиснення кнопки Видалити весь граф " alt="" coords="269,785,449,827"/>
+<area shape="rect" id="node19" href="$class_graph_drawn_1_1_main_form.html#a7700b9e8350a3af86b4999b27f27918b" title="Обробка події натиснення кнопки Відкрити з файлу для завантаження графу з файлу " alt="" coords="269,603,449,644"/>
+<area shape="rect" id="node25" href="$class_graph_drawn_1_1_main_form.html#ad5b7b394f191dfbbf98d1d9689610f59" title="Обробка події натиснення кнопки Зберегти граф до файлу " alt="" coords="269,1112,449,1153"/>
+<area shape="rect" id="node28" href="$class_graph_drawn_1_1_main_form.html#a52a0242379a876c35d1fd6d4b65f4124" title="Обробка події натиснення кнопки Матриця " alt="" coords="269,1177,449,1219"/>
+<area shape="rect" id="node29" href="$class_graph_drawn_1_1_main_form.html#af219d3bd87a063c78297f4b833417717" title="Обробка події натиснення кнопки Довідка " alt="" coords="269,1243,449,1284"/>
+<area shape="rect" id="node30" href="$class_graph_drawn_1_1_main_form.html#a13c2f695498c6fe184b8d4baa3c85c39" title="Обробка події кліку клавіши миші " alt="" coords="260,485,459,527"/>
+<area shape="rect" id="node33" href="$class_graph_drawn_1_1_main_form.html#a9eb5387862abe96a109a6c4dd1f31f5d" title="Обробка події натиснення клавіши миші " alt="" coords="517,887,715,928"/>
+<area shape="rect" id="node34" href="$class_graph_drawn_1_1_main_form.html#a9b60dd50db3562e8b4c4ac1326d98a8a" title="Обробка події пересування курсору миші " alt="" coords="260,668,459,709"/>
+<area shape="rect" id="node38" href="$class_graph_drawn_1_1_main_form.html#ac5a5fffa07b4868b2d0a518cb06c3575" title="Обробка події відпускання клавіши миші " alt="" coords="517,552,715,593"/>
+<area shape="rect" id="node39" href="$class_graph_drawn_1_1_main_form.html#a51dcb421a0b66125e1daa43b6708d098" title="Обробка події розгортання вікна " alt="" coords="261,1308,457,1349"/>
+<area shape="rect" id="node40" href="$class_graph_drawn_1_1_main_form.html#af25a27446e27e5a89c8c5f1c2356dbbf" title="Обробка події звернення вікна " alt="" coords="261,1373,457,1415"/>
+<area shape="rect" id="node41" href="$class_graph_drawn_1_1_main_form.html#a5b8c9b62e92ce15ed9a98166ebacc5be" title="Обробка події закриття форми " alt="" coords="261,1047,457,1088"/>
+<area shape="rect" id="node42" href="$class_graph_drawn_1_1_main_form.html#abc232f20d8304c81f856654fc8b6999a" title="Обробка події зміни розміру вікна " alt="" coords="518,253,714,295"/>
+<area shape="rect" id="node4" href="$class_graph_drawn_1_1_graph_draw.html#a506eb4da19e59304641d85cef1493c0f" title="Визанчення чи ребро існує по номерм вершин кінців " alt="" coords="1287,172,1492,213"/>
+<area shape="rect" id="node5" href="$class_graph_drawn_1_1_graph_draw.html#a2f3683f3cc6260d63d7aa027f8184e39" title="Побудова графу з чистого листа " alt="" coords="785,319,980,360"/>
+<area shape="rect" id="node10" href="$class_graph_drawn_1_1_graph_draw.html#a00f733bd2c81e9e1a5902ad3edb9c914" title="Відображення ваги ребра на зображені " alt="" coords="1040,289,1232,331"/>
+<area shape="rect" id="node6" href="$class_graph_drawn_1_1_graph_draw.html#ad6c4fdd916e8def4a55c4655d40c42fe" title="Зміна зображення на якому малюється граф " alt="" coords="1043,945,1229,987"/>
+<area shape="rect" id="node7" href="$class_graph_drawn_1_1_graph_draw.html#ac5ed09eee981432a4187a84928179f44" title="Метод відображення вершини " alt="" coords="1293,441,1485,483"/>
+<area shape="rect" id="node8" href="$class_graph_drawn_1_1_graph_draw.html#a8a2bdd4a94a6caa9865f4d5839f6af90" title="Метод відображення лінії ребра " alt="" coords="1040,485,1232,527"/>
+<area shape="rect" id="node9" href="$class_graph_drawn_1_1_graph_draw.html#a85697489bbf55304cdf4bda399d0bdc5" title="Визначення точки до якох потрібно малювати лінію " alt="" coords="1280,507,1499,548"/>
+<area shape="rect" id="node12" href="$class_graph_drawn_1_1_main_form.html#a3b0290115913aab175b5476ed6438396" title="Метод відновлення даних у таблиці з ребрами " alt="" coords="781,172,984,213"/>
+<area shape="rect" id="node13" href="$class_graph_drawn_1_1_graph_draw.html#aac44601f8514a43277dfbc35b2940e65" title="Визначення ортогонального ребра до ребра з вершинами номера яких задані " alt="" coords="1041,143,1231,184"/>
+<area shape="rect" id="node18" href="$class_graph_drawn_1_1_graph_draw.html#a80586ecef9377b16308dcc708adbfe48" title="Видалення всіх вершин та ребер " alt="" coords="511,1003,721,1030"/>
+<area shape="rect" id="node20" href="$class_graph_drawn_1_1_main_form.html#a93f6b2ba8f924b280b3e8720654c04b0" title="Перебір всіх вершин у графі " alt="" coords="507,770,725,797"/>
+<area shape="rect" id="node24" href="$class_graph_drawn_1_1_graph_draw.html#a4858b785318b4bcaf3243505a4748d60" title="Побудова ребра графу " alt="" coords="773,493,992,519"/>
+<area shape="rect" id="node21" href="$class_graph_drawn_1_1_graph_draw.html#aae6e87000aba6300d8d92b416c7bfdba" title="Метод визначення вершини по заданим координатам " alt="" coords="787,661,978,703"/>
+<area shape="rect" id="node22" href="$class_graph_drawn_1_1_graph_draw.html#a0cb1a609a7dcccf2543c7bc138a734f3" title="Побудова вершини " alt="" coords="775,727,990,754"/>
+<area shape="rect" id="node23" href="$class_graph_drawn_1_1_graph_draw.html#a8b30901aef6589d77c2d216211acad6a" title="Визначення останьої доданої вершини " alt="" coords="1041,745,1231,787"/>
+<area shape="rect" id="node26" href="$class_graph_drawn_1_1_graph_draw.html#a8b1c3c757237445648288e54cb944dec" title="Кількість вершини графа " alt="" coords="517,1055,715,1096"/>
+<area shape="rect" id="node27" href="$class_graph_drawn_1_1_graph_draw.html#aaa2d05526f63483db217c980558eca84" title="Кількість ребер графа " alt="" coords="517,1120,715,1161"/>
+<area shape="rect" id="node31" href="$class_graph_drawn_1_1_graph_draw.html#a2eb733b14e413f4d85295d7470ff6934" title="Видалення ребра чи вершини " alt="" coords="515,384,717,425"/>
+<area shape="rect" id="node32" href="$class_graph_drawn_1_1_graph_draw.html#a7176b6212c61394e3b7d8d12c25880af" title="Визначення індексу ребра по заданим координатам " alt="" coords="787,401,978,443"/>
+<area shape="rect" id="node35" href="$class_graph_drawn_1_1_graph_draw.html#a5857873b054cdd3b1554efd2129682a5" title="Зміна координат точки " alt="" coords="511,319,721,360"/>
+<area shape="rect" id="node36" href="$class_graph_drawn_1_1_graph_draw.html#a1c9ce40c55bd58f76d8ab2764defcfd5" title="Метод відображення вершини з червоним колом " alt="" coords="520,821,712,863"/>
+<area shape="rect" id="node37" href="$class_graph_drawn_1_1_graph_draw.html#a7dcaf287d29e1b34642e18326ccb59e5" title="Відображення червоної лінії " alt="" coords="785,544,980,585"/>
+</map>
